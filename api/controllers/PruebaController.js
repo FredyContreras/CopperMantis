@@ -19,7 +19,7 @@ module.exports = {
   },
 	mensaje: function (req, res) {
     return res.json({
-      todo: 'un saludo'
+      todo: 'un saludo nuevo'
     });
   }
 };
